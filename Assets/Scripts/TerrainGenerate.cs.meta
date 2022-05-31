@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: f153901a81e1887478d7df54d04b10eb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tile: {fileID: 7482667652216324306, guid: 418116b920433294b90212c7471754b3, type: 3}
+  - noiseTexture: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
